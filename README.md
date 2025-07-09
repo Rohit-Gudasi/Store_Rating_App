@@ -9,6 +9,11 @@ A full-stack, database-driven web application that allows users to rate and revi
 The Store Rating App provides a user-friendly platform for submitting, viewing, and managing store reviews. It includes features like average rating calculations, persistent storage, and an interactive frontend dashboard with dynamic data rendering.
 
 ---
+## 🚀 Live Demo
+
+🌐 Frontend: [https://store-rating-app-frontend.onrender.com](https://store-rating-app-frontend.onrender.com)
+
+---
 
 ## 🚀 Tech Stack
 
@@ -19,12 +24,6 @@ The Store Rating App provides a user-friendly platform for submitting, viewing, 
 | Database    | MySQL                         |
 | State Mgmt  | useState, useEffect (React Hooks) |
 | Auth (optional) | JWT                        |
-
----
-
-## 📸 Screenshots
-
-> (Add screenshots here if available for Home, Rating UI, Sidebar navigation, etc.)
 
 ---
 
